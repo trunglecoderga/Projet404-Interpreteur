@@ -1,4 +1,4 @@
-Pour compiler l'interpreteur:
+*** Pour compiler l'interpreteur: 
 make
 ou
 make interpreteur
