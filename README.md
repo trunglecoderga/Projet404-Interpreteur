@@ -1,15 +1,15 @@
-*** Pour compiler l'interpreteur: 
+## Pour compiler l'interpreteur: 
 make
 ou
 make interpreteur
 
 
-Pour lancer l'interpreteur:
+## Pour lancer l'interpreteur:
 ./interpreteur Test/nomfichier.txt
 
 
 
-Les programmes sont dans le sous répertoire Test
+## Les programmes sont dans le sous répertoire Test
 
 Tests TP5(variables):
 -entree0.txt
